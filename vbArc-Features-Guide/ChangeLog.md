@@ -1,5 +1,5 @@
 Planned features  
   
-| |status|feature|
-|---|---|---|
-| backlog |backlog|edit/add/remove text and image|
+|status|feature|
+|---|---|
+|backlog|edit/add/remove text and image|
