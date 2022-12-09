@@ -1,4 +1,5 @@
 # RaiseTheBar
 Create workbook and VBE commandbars from sheets data. Each sheet handles its own menu.
 
-![BarBuilder](https://user-images.githubusercontent.com/62287665/170943485-ec88bc64-df86-4a56-96c2-ecbf09630f8d.jpg)
+https://user-images.githubusercontent.com/62287665/206636632-8e47b338-49ef-430c-8197-8e2b823a13d6.mp4
+
